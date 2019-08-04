@@ -1,0 +1,25 @@
+{
+  "name": "treehousetaskseven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulheading/TreehouseTaskSeven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulheading/TreehouseTaskSeven/issues"
+  },
+  "homepage": "https://github.com/paulheading/TreehouseTaskSeven#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "nodemon": "^1.19.1",
+    "pug": "^2.0.4"
+  }
+}
