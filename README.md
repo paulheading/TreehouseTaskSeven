@@ -4,6 +4,6 @@ I combined Node.js and Express on the server side with Pug templates to create a
 
 # Instructions
 
-Open folder locally in terminal and type npm start
+Open folder locally in terminal and type `npm start`
 
 ![screengrab](https://repository-images.githubusercontent.com/160225919/4055f200-7295-11eb-8c16-fef9b11d39fb)
