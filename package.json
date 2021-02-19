@@ -1,16 +1,16 @@
 {
   "name": "treehousetaskseven",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "I combined Node.js and Express on the server side with Pug templates to create a portfolio site, showcasing the treehouse projects that I've built so far.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/paulheading/TreehouseTaskSeven.git"
   },
-  "author": "",
+  "author": "Paul Heading",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/paulheading/TreehouseTaskSeven/issues"
