@@ -4,7 +4,7 @@ I combined Node.js and Express on the server side with Pug templating to create 
 
 ## Instructions
 
-Open folder locally in terminal and type `npm start`
+Open folder locally in terminal and type `npm start`, then visit `http://localhost:3000` in your web browser.
 
 ## Screengrab
 
